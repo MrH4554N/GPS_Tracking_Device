@@ -9,7 +9,7 @@ This is a Altium design for **GPS tracking device**, which designed for high-val
 - **Data Transmission** – Utilizes the **A7680 module** for communication to server.  
 - **Power Efficiency** – Operates in low-power mode and wakes up only when movement is detected.  
 - **Motion Detection** – **MPU6050** detects tilt, triggering the device to wake up and operate.  
-- **ESP32-based** – Handles processing, communication, and power management.  
+- **ESP32** – Handles processing, communication, and power management.  
 
 ## Hardware Components  
 | Component       | Description |
