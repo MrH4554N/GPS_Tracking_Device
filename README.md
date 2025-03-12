@@ -1,7 +1,7 @@
 # GPS Tracking Device  
 
 ## Overview  
-This project is a **GPS tracking device** designed for high-value equipment monitoring. It continuously tracks the location of assets and transmits position data to a remote server. The device is designed for **low power consumption**, allowing it to operate for **2-3 months** on two **18650 3500mAh rechargeable batteries**.  
+This is a Altium design for **GPS tracking device**, which designed for high-value equipment monitoring. It continuously tracks the location of assets and transmits position data to a remote server. The device is designed for **low power consumption**, allowing it to operate for **2-3 months** on two **18650 3500mAh rechargeable batteries**.  
 
 ## Features  
 - **Real-time GPS Tracking** – Uses the **Waveshare LC76G GPS module** to determine location with large distance.
